@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\bin\Debug\net6.0\while_foreach.exe
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\bin\Debug\net6.0\while_foreach.deps.json
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\bin\Debug\net6.0\while_foreach.runtimeconfig.json
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\bin\Debug\net6.0\while_foreach.dll
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\bin\Debug\net6.0\while_foreach.pdb
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\while_foreach.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\while_foreach.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\while_foreach.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\while_foreach.dll
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\refint\while_foreach.dll
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\while_foreach.pdb
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\while_foreach.genruntimeconfig.cache
+C:\Users\Metehan\Desktop\Pratikler\while_foreach\obj\Debug\net6.0\ref\while_foreach.dll
